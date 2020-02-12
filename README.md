@@ -1,5 +1,6 @@
 # 【gin + gorm】劣化版ツイッターアプリ GAE,Cloudsql デプロイ用
 GAEとCloud SQLの設定をしてから実行して下さい。
+https://qiita.com/dai-maru/items/97eb1f9640a1be097d2d
 
 ```
 go run main.go
